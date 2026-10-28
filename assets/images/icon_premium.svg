@@ -1,0 +1,7 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.000000" height="24.000000" fill="none" customFrame="#000000">
+	<rect id="Icons/Premium" width="24.000000" height="24.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+	<g id="crown">
+		<path id="Path" d="M23 15.2499L23 3.5127L17.4432 8.81607L12 4.4857L6.55683 8.81607L1 3.5127L1 15.2499L23 15.2499Z" fill="rgb(241,82,35)" fill-rule="nonzero" />
+		<path id="Path" d="M1 17L1 18.75C1 19.7165 1.82081 20.5 2.83333 20.5L21.1667 20.5C22.1792 20.5 23 19.7165 23 18.75L23 17L1 17Z" opacity="0.5" fill="rgb(241,82,35)" fill-rule="nonzero" />
+	</g>
+</svg>
